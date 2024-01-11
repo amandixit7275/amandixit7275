@@ -1,4 +1,4 @@
-
+![logo](https://github.com/amandixit7275/amandixit7275/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aman Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
