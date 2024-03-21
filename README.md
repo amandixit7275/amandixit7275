@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Aman-Dixit-96](https://www.quora.com/profile/Aman-Dixit-96)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX-TOOLKIT**
 
 - 📫 How to reach me **aman.d6t@gmail.com**
 
