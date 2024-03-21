@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/a_man_dikshit" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/a_man_dikshit?logo=twitter&style=for-the-badge" alt="https://twitter.com/a_man_dikshit" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently a **React js** developer.
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Aman-Dixit-96](https://www.quora.com/profile/Aman-Dixit-96)
 
